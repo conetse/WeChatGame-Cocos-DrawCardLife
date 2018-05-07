@@ -1,8 +1,10 @@
 ## WeChatGame-Cocos-DrawCardLife
 
-wechat mini game based on CocosCreator - DrawCardLife
+wechat mini game based on CocosCreator - DrawCardLife.
 
-## Cocos Creator 2d小游戏
+这是一个利用 Cocos Creator 参照有点意思的app游戏《抽卡人生》复刻的小游戏, 仅供研究学习.
+
+## Cocos Creator 2d小游戏制作
 
 cocos creator 制作2d小游戏的方式遵循普通的游戏引擎的方式.
 
